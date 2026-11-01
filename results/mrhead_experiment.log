@@ -1,0 +1,6 @@
+wrote results/mrhead_experiment.mp4: 91 frames (87 valid, 4 error), 502x556, codec avc1
+  invalid plane at csv line 40: not isosceles: |dist(a,b) - dist(a,c)| = 1.48163 >= eps (0.001)
+  invalid plane at csv line 68: expected 9 (3 points) or 12 (4 points) numbers, got 6
+  invalid plane at csv line 69: non-numeric value(s): abc
+  invalid plane at csv line 70: points are not coplanar (off-plane distance 6.63998)
+projection: 55.4 ms total, 1571 fps; total run time 0.67 s

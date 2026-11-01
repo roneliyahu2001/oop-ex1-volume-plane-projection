@@ -1,0 +1,5 @@
+wrote results/invalid_only.mp4: 4 frames (0 valid, 4 error), 640x508, codec avc1
+  invalid plane at csv line 2: not isosceles: |dist(a,b) - dist(a,c)| = 1.48163 >= eps (0.001)
+  invalid plane at csv line 3: expected 9 (3 points) or 12 (4 points) numbers, got 6
+  invalid plane at csv line 4: non-numeric value(s): abc
+  invalid plane at csv line 5: points are not coplanar (off-plane distance 6.63998)

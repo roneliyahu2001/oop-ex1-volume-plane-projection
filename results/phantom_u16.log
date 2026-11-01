@@ -1,0 +1,6 @@
+wrote results/phantom_u16.mp4: 40 frames (36 valid, 4 error), 500x584, codec avc1
+  invalid plane at csv line 40: not isosceles: |dist(a,b) - dist(a,c)| = 1.48163 >= eps (0.001)
+  invalid plane at csv line 41: expected 9 (3 points) or 12 (4 points) numbers, got 6
+  invalid plane at csv line 42: non-numeric value(s): abc
+  invalid plane at csv line 43: points are not coplanar (off-plane distance 6.63998)
+projection: 6.8 ms total, 5322 fps; total run time 0.15 s
