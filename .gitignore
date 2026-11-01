@@ -6,3 +6,4 @@ venv/
 .DS_Store
 /out/
 *.tmp.mp4
+/data/slicer/
